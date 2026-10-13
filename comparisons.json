@@ -1,0 +1,134 @@
+{
+  "main/base": {
+    "reference": "main/base",
+    "variant": "main/base"
+  },
+  "main/none": {
+    "reference": "main/base",
+    "variant": "main/none"
+  },
+  "main/exit-rebuilt": {
+    "reference": "main/base",
+    "variant": "main/exit-rebuilt"
+  },
+  "main/center5": {
+    "reference": "main/base",
+    "variant": "main/center5"
+  },
+  "main/centerK": {
+    "reference": "main/base",
+    "variant": "main/centerK"
+  },
+  "main/common-exit": {
+    "reference": "main/base",
+    "variant": "main/common-exit"
+  },
+  "main/common-center": {
+    "reference": "main/base",
+    "variant": "main/common-center"
+  },
+  "main/radius200": {
+    "reference": "main/exit-rebuilt",
+    "variant": "main/radius200"
+  },
+  "main/radius400": {
+    "reference": "main/exit-rebuilt",
+    "variant": "main/radius400"
+  },
+  "main/count3": {
+    "reference": "main/exit-rebuilt",
+    "variant": "main/count3"
+  },
+  "main/count10": {
+    "reference": "main/exit-rebuilt",
+    "variant": "main/count10"
+  },
+  "main/walk100": {
+    "reference": "main/walk200-rebuilt",
+    "variant": "main/walk100"
+  },
+  "main/walk200-rebuilt": {
+    "reference": "main/base",
+    "variant": "main/walk200-rebuilt"
+  },
+  "main/walk300": {
+    "reference": "main/walk200-rebuilt",
+    "variant": "main/walk300"
+  },
+  "main/wait600": {
+    "reference": "main/base",
+    "variant": "main/wait600"
+  },
+  "main/wait900": {
+    "reference": "main/base",
+    "variant": "main/wait900"
+  },
+  "main/speed08": {
+    "reference": "main/base",
+    "variant": "main/speed08"
+  },
+  "main/speed12": {
+    "reference": "main/base",
+    "variant": "main/speed12"
+  },
+  "main/road11": {
+    "reference": "main/base",
+    "variant": "main/road11"
+  },
+  "main/road15": {
+    "reference": "main/base",
+    "variant": "main/road15"
+  },
+  "main/smooth": {
+    "reference": "main/base",
+    "variant": "main/smooth"
+  },
+  "main/marginal": {
+    "reference": "main/base",
+    "variant": "main/marginal"
+  },
+  "main/cap3600": {
+    "reference": "main/base",
+    "variant": "main/cap3600"
+  },
+  "main/uncapped": {
+    "reference": "main/base",
+    "variant": "main/uncapped"
+  },
+  "main/common-center-vs-common-exit": {
+    "reference": "main/common-exit",
+    "variant": "main/common-center"
+  },
+  "interaction/count3-walk100": {
+    "reference": "main/joint-rebuilt",
+    "variant": "main/count3-walk100"
+  },
+  "interaction/count3-walk300": {
+    "reference": "main/joint-rebuilt",
+    "variant": "main/count3-walk300"
+  },
+  "interaction/count10-walk100": {
+    "reference": "main/joint-rebuilt",
+    "variant": "main/count10-walk100"
+  },
+  "interaction/count10-walk300": {
+    "reference": "main/joint-rebuilt",
+    "variant": "main/count10-walk300"
+  },
+  "external/matched-exit__mean-center": {
+    "reference": "external/matched-exit",
+    "variant": "external/mean-center"
+  },
+  "external/matched-exit__external-center": {
+    "reference": "external/matched-exit",
+    "variant": "external/external-center"
+  },
+  "external/mean-center__external-center": {
+    "reference": "external/mean-center",
+    "variant": "external/external-center"
+  },
+  "external/common-exit__common-external": {
+    "reference": "external/common-exit",
+    "variant": "external/common-external"
+  }
+}

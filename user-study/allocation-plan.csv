@@ -1,0 +1,13 @@
+slot,status,practice_case,first_case,second_case
+01,planned,C03,C01,C02
+02,planned,C03,C08,C05
+03,planned,C03,C10,C12
+04,planned,C03,C14,C13
+05,planned,C03,C17,C20
+06,planned,C03,C02,C01
+07,planned,C03,C05,C08
+08,planned,C03,C12,C10
+09,planned,C03,C13,C14
+10,planned,C03,C20,C17
+11,planned,C03,C01,C16
+12,planned,C03,C16,C01

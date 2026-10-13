@@ -1,0 +1,1 @@
+session_id,task_id,rater_id,status,correct_facts,total_facts,wrong_leg_reference,start_time,end_time,elapsed_seconds,pause_seconds,limit_reached,extended,actions,rereads,help_R,help_N,help_C,stop_reason,technical_issue,notes

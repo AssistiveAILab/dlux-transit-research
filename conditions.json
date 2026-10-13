@@ -1,0 +1,56 @@
+{
+  "base": {},
+  "none": {},
+  "exit-rebuilt": {},
+  "center5": {},
+  "centerK": {},
+  "common-exit": {},
+  "common-center": {},
+  "radius200": {
+    "radius": 200
+  },
+  "radius400": {
+    "radius": 400
+  },
+  "count3": {
+    "count": 3
+  },
+  "count10": {
+    "count": 10
+  },
+  "walk100": {
+    "walk": 100
+  },
+  "walk200-rebuilt": {
+    "walk": 200
+  },
+  "walk300": {
+    "walk": 300
+  },
+  "wait600": {
+    "wait": 600
+  },
+  "wait900": {
+    "wait": 900
+  },
+  "speed08": {
+    "speed": 0.8
+  },
+  "speed12": {
+    "speed": 1.2
+  },
+  "road11": {
+    "road": 1.1
+  },
+  "road15": {
+    "road": 1.5
+  },
+  "smooth": {},
+  "marginal": {},
+  "cap3600": {
+    "cap": 3600
+  },
+  "uncapped": {
+    "cap": 1000000
+  }
+}

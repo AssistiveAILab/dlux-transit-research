@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "Cite this research evidence package separately from the manuscript. No publication acceptance or DOI is claimed."
+title: "DLUX transit: research evidence for offline nonvisual journey planning"
+type: dataset
+authors:
+  - family-names: Ka
+    given-names: Hyun W.
+    affiliation: KAIST Assistive AI Lab
+version: 1.0.0
+date-released: 2026-10-13
+url: "https://github.com/AssistiveAILab/dlux-transit-research"
+repository-code: "https://github.com/AssistiveAILab/dlux-transit-research"
