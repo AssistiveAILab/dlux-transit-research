@@ -8,7 +8,7 @@ The private evaluated dataset integrates the following sources. References ident
 
 | Source | Use in underlying research | Distribution in this package |
 |---|---|---|
-| OpenStreetMap contributors, https://www.openstreetmap.org/copyright; ODbL 1.0, https://opendatacommons.org/licenses/odbl/1-0/ | Station exits and a bounded pedestrian-data investigation | No coordinate extract, map, or derived route database; attribution applies to route-description excerpts in task materials |
+| OpenStreetMap contributors, https://www.openstreetmap.org/copyright; ODbL 1.0, https://opendatacommons.org/licenses/odbl/1-0/ | Station exits and a bounded pedestrian-data investigation | Not in this repository tree. The OpenStreetMap-derived exit positions, exit–stop links, and distance-estimated segment times used by the app are a separate ODbL 1.0 release asset (see README). Attribution also applies to the route-description excerpts in the task materials. |
 | Seoul Metropolitan Government, https://data.seoul.go.kr/dataList/OA-1095/F/1/datasetView.do and https://data.seoul.go.kr/dataList/OA-15066/F/1/datasetView.do | Bus stops/routes and headways; source notices record Korea Open Government License Type 1 attribution | Names and brief generated guidance in task materials; no source files |
 | Ministry of Land, Infrastructure and Transport, TAGO, https://www.data.go.kr/data/15098529/openapi.do | Bus routes, stops, headways | No raw response or credentials |
 | Daegu Transportation Corporation, https://www.data.go.kr/data/15133918/fileData.do | Official station exit positions | No coordinate source file |

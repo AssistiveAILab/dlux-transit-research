@@ -42,6 +42,14 @@ Start with `user-study/protocol.md` and `user-study/author-decisions.md`. There 
 
 The source-based task generator is retained privately because it reads full candidate narratives. The distributed task cards and answer key are fixed materials; this repository does not claim to regenerate them from its digest-only route records.
 
+## OpenStreetMap-derived exit data (ODbL)
+
+The DLUX Transit app stores its data in an encrypted form. As the Open Database License requires, the parts derived from OpenStreetMap are offered here as an unrestricted copy. They are published as a separate release asset, `dlux-transit-osm-exits-20261020.zip` (release `osm-exits-20261020`), and not in this repository tree. The archive holds, for each metropolitan region, the station exit positions, the links from exits to bus stops within 300 m, and the subway segment times estimated from exit distances where no timetable was available. The Daegu lines 1–3 exits come from the Daegu Transportation Corporation, not OpenStreetMap, so they are not included. Its `README.txt` gives the file formats, and `SHA256SUMS` gives a checksum for each file.
+
+© OpenStreetMap contributors. This data is available under the Open Database License 1.0: https://opendatacommons.org/licenses/odbl/1-0/. The bus stop identifiers come from public data released by TAGO, the Seoul Metropolitan Government, and Gyeonggi Province. The release does not include the processing rules or the application.
+
+앱에 담긴 자료 가운데 OpenStreetMap에서 나온 출구 자료는 위 릴리스에서 ODbL 1.0으로 무료로 내려받을 수 있습니다.
+
 ## Availability and citation
 
 Public repository: https://github.com/AssistiveAILab/dlux-transit-research
